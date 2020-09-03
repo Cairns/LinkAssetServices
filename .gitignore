@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FizzBuzz/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/FizzBuzz/obj/Release
+/FizzBuzz/obj/Debug/FizzBuzz.csproj.FileListAbsolute.txt
+/FizzBuzz/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/FizzBuzz/obj/Debug
+/FizzBuzz/obj
+/FizzBuzz/bin/Debug/FizzBuzz.exe.config
+/FizzBuzz/bin/Debug
